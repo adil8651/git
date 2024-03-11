@@ -1,1 +1,1 @@
-this will the fist time i am using git in to my terminal.
+this is the first time when i have clones some code from github.

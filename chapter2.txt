@@ -1,1 +1,1 @@
-this is the second time that i have tryed git to add to stage.
+the second step was to create a nerw branch for checkout and switch to it
